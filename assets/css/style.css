@@ -2711,7 +2711,8 @@ hr {
 }
 
 .home-banner2 img {
-    width: 100%
+    width: 100%;
+    border-radius: 7px;
 }
 
 .colorb {
@@ -3724,7 +3725,8 @@ hr {
     width: 100%;
     height: 100%;
     bottom: 0;
-    content: ""
+    content: "";
+    border-radius: 7px;
 }
 
 .whats-news-area .most-recent-area .most-recent .most-recent-img img,
@@ -4067,7 +4069,8 @@ hr {
 }
 
 .youtube-area .video-items video {
-    width: 100%
+    width: 100%;
+    border-radius: 7px;
 }
 
 .youtube-area .video-info .video-caption {
@@ -4093,7 +4096,8 @@ hr {
 
 .youtube-area .single-video video {
     padding: 0 5px;
-    width: 100%
+    width: 100%;
+    border-radius: 10px;
 }
 
 .youtube-area .single-video .video-intro h4 {
